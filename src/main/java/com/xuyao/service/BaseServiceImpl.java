@@ -14,4 +14,11 @@ public class BaseServiceImpl implements BaseService {
     public String sayHello() {
         return "Xu Yao, Hello~";
     }
+
+	@Override
+	public String sayHello(int num) {
+		
+		return num + ", Hello Kitty";
+	}
+    
 }
