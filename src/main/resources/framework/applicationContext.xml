@@ -17,5 +17,6 @@
     </bean>
 
     <import resource="classpath:framework/dubbo/dubbo.xml" />
+    <import resource="classpath:framework/ehcache/applicationContext-ehcache.xml"/>
 
 </beans>
