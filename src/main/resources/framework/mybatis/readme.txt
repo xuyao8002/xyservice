@@ -1,0 +1,1 @@
+执行maven命令：mybatis-generator:generate,生成dao、mapper、model
